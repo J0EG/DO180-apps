@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Hello World App",
   "main": "server.js",
-  "author": "Red Hat Training",
+  "author": "Red Hat Training -1 ",
   "license": "ASL",
   "dependencies": {
     "express": "4.14.x"
